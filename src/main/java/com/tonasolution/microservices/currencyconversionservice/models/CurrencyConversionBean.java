@@ -76,5 +76,6 @@ public class CurrencyConversionBean {
 	public void setPort(int port) {
 		this.port = port;
 	}
-
+	
+	
 }
